@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "99760004119",
+    "firebase_url": "https://pastem-3f318.firebaseio.com",
+    "project_id": "pastem-3f318",
+    "storage_bucket": "pastem-3f318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99760004119:android:325873b963e10cbd",
+        "android_client_info": {
+          "package_name": "com.pastem.pastem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99760004119-4b4450248d6srkro85chd9jaknau0pgv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pastem.pastem",
+            "certificate_hash": "fec17880a7e81d5da176aabf33c2ecbf59d4183f"
+          }
+        },
+        {
+          "client_id": "99760004119-3a47e68p3jgqk03g6cso24bf40t02nuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8d5zP_AwGdUm4u96UUrogAavDOhKOSiI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99760004119-3a47e68p3jgqk03g6cso24bf40t02nuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
